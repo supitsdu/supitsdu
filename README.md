@@ -1,58 +1,40 @@
 # Eduardo M. Santos (Du)
 
----
+## 👨‍💻 Aspiring Software Engineer
 
-## 👋 Hey there!
+Hi there! I'm Eduardo, an aspiring software engineer with 8 years of coding experience. I'm currently pursuing a Bachelor's degree in Software Engineering to further my skills and knowledge.
 
-I'm on the path to becoming a Software Engineer, driven by my passion for coding. With 8 years of tinkering with code as a hobby, I've decided to dive deeper and pursue a Bachelor's degree in Software Engineering.
+## 🚀 Passionate About
 
-Outside of coding, I'm diving into GitHub for collaborations and projects, and I rely on Notion to keep my thoughts organized.
+- **Coding:** Always eager to learn and apply new programming concepts.
+- **Open Source:** Contributing to meaningful projects and collaborating with others.
+- **Problem Solving:** Thriving on challenges and finding creative solutions.
 
-When I'm not coding, I'm immersed in the timeless tales of Greek mythology, and I'm a huge fan of alternative/indie music, especially bands like Gang of Youths. I also love outdoor activities like running.
+## 🛠️ Tech Stack
 
-Sunday nights are all about unwinding with anime and enjoying the little things in life. So that's me – coding, exploring, vibing to great tunes, and savoring life's moments.
+- **Languages:** JavaScript (Advanced), Go (Learning), Rust (Learning)
+- **Tools:** GitHub, Notion
+- **Interests:** Web development, Linux utilities, back-end infrastructure
 
----
+## ✨ Featured Projects
 
-## 🧠 Problem Solving
+- **Colorus JS:** A sleek and powerful color manipulation library ([https://github.com/supitsdu/colorus-js](https://github.com/supitsdu/colorus-js))
+- **Clipper:** A cross-platform Go command-line tool for effortlessly copying file contents, command output, or text to the clipboard ([https://github.com/supitsdu/clipper](https://github.com/supitsdu/clipper))
 
-I enjoy challenging myself on platforms like LeetCode, where I tackle problems not only in the languages I'm proficient in but also in new languages that I'm striving to master, such as Go and Rust.
+## 🌱 Learning & Exploring
 
----
+- Deepening my JavaScript expertise
+- Mastering the Go programming language
+- Exploring the power of Rust
 
-## 🔭 Currently Working On
+## 🙌 Let's Collaborate!
 
-- [Colorus JS](https://github.com/supitsdu/colorus-js) - Sleek and powerful color manipulation library.
+I'm open to collaborating on:
 
----
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript
-- Go programming language
-- Rust programming language
-
----
-
-## 👯 Looking to Collaborate On
-
-- Open-source projects related to web development, Linux utilities (Fish, Zsh, Bash, Neovim, Arch Linux, etc), back-end infrastructure.
+- Open-source projects related to web development, Linux utilities, or back-end infrastructure
 - JavaScript libraries or frameworks
 
----
+## 📫 Get in Touch
 
-## 💬 Ask Me About
-
-- My journey into programming
-- Tips for learning new languages
-- Recommendations for anime or music
-
----
-
-## 📫 How to Reach Me
-
-- Email: santos.ned@outlook.com
-
----
-
-Feel free to reach out for collaborations or any inquiries!
+- Email: contact@supitsdu.me
+- Reddit: [u/supitsdu](https://www.reddit.com/user/supitsdu/)
