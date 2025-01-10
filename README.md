@@ -1,31 +1,33 @@
-# Hi!
+![Astronaut Banner](/image.webp)
 
-I'm Eduardo, an aspiring software engineer with 8 years of coding experience (as a hobby). I'm pursuing a Bachelor's degree in Software Engineering to further my skills and knowledge.
+# 👋 Hi there! I'm **Eduardo**
 
-## Passionate About
+Aspiring software engineer with 8 years of coding experience, currently pursuing a Bachelor's degree in Software Engineering.
 
-- **Coding:** Always eager to learn and apply new programming concepts.
-- **Open Source:** Contributing to projects and collaborating with others.
-- **Problem Solving:** Thriving on challenges and finding creative solutions.
+---
 
-##  Tech Stack
+## Tech Stack
 
-- **Languages:** JavaScript (Advanced), Go (Learning), Rust (Learning)
-- **Tools:** GitHub, Notion
-- **Interests:** Web development, Linux utilities, back-end infrastructure
+**Languages:**
 
-##  Featured Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 
-- **Colorus JS:** A sleek and powerful color manipulation library ([https://github.com/supitsdu/colorus-js](https://github.com/supitsdu/colorus-js))
-- **Clipper:** A cross-platform Go command-line tool for effortlessly copying file contents, command output, or text to the clipboard ([https://github.com/supitsdu/clipper](https://github.com/supitsdu/clipper))
+**Tools:**
 
-##  Learning & Exploring
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-- Deepening my JavaScript expertise
+---
+
+## Currently Learning
+
+- Deepening expertise in JavaScript
 - Mastering the Go programming language
-- Exploring the power of Rust
+- Exploring Rust's capabilities
 
-##  I'm open to collaborating on:
+---
 
-- Open-source projects related to web development, Linux utilities, or back-end infrastructure
-- JavaScript libraries or frameworks
+![supitsdu's Stats](https://github-readme-stats.vercel.app/api?username=supitsdu&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
